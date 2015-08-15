@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/natesh/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/natesh/newworkspace_studio/AppManager/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-49f32db540ccf2b455c318c1c2c4fa94bd0ea2a0.jar" />
+    </item>
+    <item
+        jar="/home/natesh/newworkspace_studio/AppManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/natesh/newworkspace_studio/AppManager/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7cbeb9f7e578f905268f03ca9ee819254c37623d.jar" />
+    </item>
+    <item
+        jar="/home/natesh/newworkspace_studio/AppManager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/natesh/newworkspace_studio/AppManager/app/build/intermediates/pre-dexed/debug/classes-e3cc74cba1a6cf108621969e094f7324f39de295.jar" />
+    </item>
+    <item
+        jar="/home/natesh/newworkspace_studio/AppManager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/natesh/newworkspace_studio/AppManager/app/build/intermediates/pre-dexed/debug/classes-fbbb36495ca3233b70f4bc34d0e9df00522e2ebc.jar" />
+    </item>
+
+</items>
